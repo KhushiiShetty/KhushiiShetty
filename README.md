@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects in the field of Financial Engineering
 - 📫 How to reach me: Via email - khushiishett@umass.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I worked as an intern assistant director on a movie!
+- ⚡ Fun fact: I worked as an intern assistant director for a movie!
 
 <!---
 KhushiiShetty/KhushiiShetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
